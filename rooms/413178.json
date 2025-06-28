@@ -1,0 +1,20 @@
+{
+  "room_id": "413178",
+  "entry_amount": 10,
+  "players": {
+    "player1": {
+      "name": "lak",
+      "joined": true,
+      "score": 0
+    },
+    "player2": {
+      "name": "pinky",
+      "joined": true,
+      "score": 0
+    }
+  },
+  "turn": "player1",
+  "innings": 1,
+  "is_out": false,
+  "is_over": false
+}
